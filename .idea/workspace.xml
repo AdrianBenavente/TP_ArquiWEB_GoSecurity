@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc1f7e40-267a-4859-8d72-9ebd7d0bf551" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/entities/Pertenencias.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/entities/PertenenciasColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/entities/PertenenciasMarca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/entities/PertenenciasModelo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/entities/PertenenciasTipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/repositories/PColorRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/repositories/PMarcaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/repositories/PModeloRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/repositories/PTipoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/repositories/PertenenciasRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/serviceimplements/PColorImplements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/serviceimplements/PMarcaImplements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/serviceimplements/PModeloImplements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/serviceimplements/PTipoImplements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/serviceimplements/PertenenciasImplements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/serviceinterfaces/PColorInterfaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/serviceinterfaces/PMarcaInterfaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/serviceinterfaces/PModeloInterfaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/serviceinterfaces/PTipoInterfaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGoSecurity/target/classes/upc/edu/pe/trabajogosecurity/serviceinterfaces/PertenenciasInterfaces.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UdolPCQLI1HmPPk1t2YIwSO11Z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TrabajoGoSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="TrabajoGoSecurity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="upc.edu.pe.trabajogosecurity.TrabajoGoSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc1f7e40-267a-4859-8d72-9ebd7d0bf551" name="Changes" comment="" />
+      <created>1693278969110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693278969110</updated>
+      <workItem from="1693278970959" duration="3375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
