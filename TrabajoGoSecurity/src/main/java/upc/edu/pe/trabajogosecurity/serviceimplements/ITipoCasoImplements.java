@@ -29,7 +29,7 @@ public class ITipoCasoImplements implements ITipoCasoService {
     }
 
     @Override
-    public TipoCaso lisId(int idTipoCaso) {
+    public TipoCaso listId(int idTipoCaso) {
         return tR.findById(idTipoCaso).orElse(new TipoCaso());
     }
 }
