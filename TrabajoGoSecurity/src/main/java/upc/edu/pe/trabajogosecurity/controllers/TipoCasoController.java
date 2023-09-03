@@ -36,7 +36,7 @@ public class TipoCasoController {
     @GetMapping("/{id}")
     public TipoCasoDTO listId(@PathVariable("id") Integer id) {
         ModelMapper m = new ModelMapper();
-        TipoCasoDTO dto = m.map(tS.lisId(id), TipoCasoDTO.class);
+        TipoCasoDTO dto = m.map(tS.listId(id), TipoCasoDTO.class);
         return dto;
     }
 }
